@@ -3,7 +3,7 @@ package hex_test
 import (
 	"testing"
 
-	"github.com/JoinVerse/cardinal/pkg/hex"
+	"github.com/GordilloXavi/ISO8583/pkg/hex"
 	"github.com/stretchr/testify/assert"
 )
 

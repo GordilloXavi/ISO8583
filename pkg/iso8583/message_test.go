@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/JoinVerse/cardinal/pkg/iso8583"
+	"github.com/GordilloXavi/ISO8583/pkg/iso8583"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/JoinVerse/cardinal/pkg/hex"
+	"github.com/GordilloXavi/ISO8583/pkg/hex"
 )
 
 // Represents a message split by its main fieds
