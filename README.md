@@ -1,1 +1,1 @@
-This package is unfinished and should not be used in a production envorinment. Moreover, the ISO8583 standard has many variants that depend on the provider sending and receiving the messages, so this implementation may only be useful in a handful of very specific cases. 
+This package is unfinished and should not be used in a production environment. Moreover, the ISO 8583 standard has many variants that depend on the provider sending and receiving the messages, so this implementation may only be useful in a handful of very specific cases. 
